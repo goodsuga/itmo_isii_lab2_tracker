@@ -1,0 +1,15 @@
+artifact_uri: file:///home/a/Desktop/%D0%98%D0%A2%D0%9C%D0%9E/%D0%98%D0%A1%D0%98%D0%98/itmo_isii_lab2_tracker/mlruns/329828968294259431/78104fceaeb441daa942c540989bf7b8/artifacts
+end_time: 1715598703024
+entry_point_name: ''
+experiment_id: '329828968294259431'
+lifecycle_stage: active
+run_id: 78104fceaeb441daa942c540989bf7b8
+run_name: Baseline Model
+run_uuid: 78104fceaeb441daa942c540989bf7b8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715598680798
+status: 3
+tags: []
+user_id: a
